@@ -1,0 +1,3 @@
+python: Python 3.13.15
+numpy: 2.3.3
+interpreter: /root/DS217-AS03/.venv/bin/python3
